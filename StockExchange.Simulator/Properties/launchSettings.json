@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StockExchange.Simulator": {
+      "commandName": "Project",
+      "commandLineArgs": "eur"
+    }
+  }
+}
